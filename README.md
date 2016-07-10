@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/LueW/buscopiso.png?label=ready&title=Ready)](https://waffle.io/LueW/buscopiso)
 # buscopiso
 
 Crear un sitio web donde la gente pueda registrar alquileres de vivienda y el publico en general pueda contactar con los mismos.
