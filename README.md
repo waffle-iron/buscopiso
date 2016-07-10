@@ -31,3 +31,11 @@ Cliente: Bootstrap, AngularJS
     * Filtrado de alquileres en curso
 * **Contactar con propietario**
     * Enviar notificación al propietario
+    
+## Development stages
+    
+1. Aprendizaje
+2. Gestión de usuario
+3. Registro y filtrado de alquileres    
+4. Contacto
+5. maps.google.es
